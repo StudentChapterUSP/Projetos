@@ -1,0 +1,45 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{placeins}
+
+\usepackage{amsthm}
+
+\title{Competição \textit{(pensar em nome melhor!)}}
+
+\setlength{\parskip}{1em}
+
+\begin{document}
+\maketitle
+
+Do que se trata:
+  Competição entre ideias soluções de problemas que façam algum uso de matemática.
+  As soluções não precisam ser completas. Procuramos primeiro ideias boas e buscaremos deixá-las completas depois.
+
+Que tipo de problema?
+  A princípio, não há restrições ao tipo de problema. No entanto, o problemas devem ter relevância.
+  A relevância um problema leva em conta:
+
+    1- A quantidade de pessoas atingidas pelo problema;
+    2- Quão afetada cada uma dessas pessoas é pelo problema.
+
+Que tipo de critério deve ser usado para a seleção?
+  Devem ser levadas em conta a relevância do problema, a qualidade da solução e a dificuldade da solução.
+  A qualidade da solução é quantificada levando em conta:
+    1- Escalabilidade;
+    2- Recursos necessários (apreciamos mais soluções baratas);
+    3- Robustês (se o cenário do problema mudar um pouco, a solução proposta ainda tem alguma validade);
+    4- Quão modificada ela teria que ser para ser aplicada a outro contexto;
+  A dificuldade da solução leva em conta:
+    1- Grau de abstração matemática;
+    2- (quando aplicável) Quantidade de variáveis do problema consideradas (por exemplo, em um problema hídrico, pode-se levar em conta só a quantidade de chuva, ou a quantidade de chuva e características geológicas, ou isso mais químicos usados por agricultores, etc.);
+
+Com base nos critérios acima, cada solução proposta deve receber uma pontuação (por critério) e as melhores serão selecionadas.
+Buscaremos trabalhar essas soluções com os autores delas e, possívelmente, com professores do ICMC ou de algum outro instituto,
+afim de, até o final do semestre, termos algo que possa ser aplicável ou submetido a algum orgão/instituto que possa aplicá-la.
+
+Qual vai ser o prêmio?
+  Precisamos pensar.
+
+\end{document}
